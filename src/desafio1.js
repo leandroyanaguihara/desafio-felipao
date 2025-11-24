@@ -1,6 +1,6 @@
 const prompt = require("prompt-sync")();
 let exp = 0
-let nome = 'Herói';
+let nome = "";
 
 
 console.log(`Bem vindo ${nome}, aqui neste menu você escolhe seu nome, experiência e vê seu nível.`);
